@@ -3,7 +3,7 @@
 print("Hello, students!")
 
 #print("Hello, World!")
-print("Cheers, Mate!")
+print("Mark, Kate!")
 
 #Multiline comments
 
