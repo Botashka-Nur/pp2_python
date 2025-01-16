@@ -1,8 +1,8 @@
 #Example 1
-x = "awesome"
+x = "great"
 
 def myfunc():
-  print("Python is " + x)
+  print("World is " + x)
 
 myfunc()
 
@@ -16,21 +16,21 @@ def myfunc():
 
 myfunc()
 
-print("Python is " + x)
+print("Fanta is " + x)
 
 
 #Example 3 
 def myfunc():
   global x
-  x = "fantastic"
+  x = "Hard"
 
 myfunc()
 
-print("Python is " + x)
+print("C++ is " + x)
 
 
 #Example 4
-x = "awesome"
+x = "High"
 
 def myfunc():
   global x

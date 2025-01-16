@@ -7,9 +7,9 @@ print(x[:5])
 
 
 #Slice To the End
-b = "Hello, World!"
+b = "Everything is possible!"
 print(b[2:])
 
 #Negative Indexing
-b = "Hello, World!"
+b = "Keep it!"
 print(b[-5:-2])

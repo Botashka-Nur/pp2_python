@@ -1,10 +1,10 @@
 a = "Hello"
-b = "World"
+b = "Planet"
 c = a + b
 print(c)
 
 
 a = "Hello"
-b = "World"
+b = "University"
 c = a + " " + b
 print(c)

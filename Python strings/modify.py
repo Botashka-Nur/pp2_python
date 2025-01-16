@@ -1,23 +1,23 @@
 #Upper Case
-a = "Hello, World!"
+a = "You are pretty!"
 print(a.upper())
 
 
 #Lower Case
-a = "Hello, World!"
+a = "I want to sleep!"
 print(a.lower())
 
 
 #Remove Whitespace
-a = " Hello, World! "
+a = " Hi,Python! "
 print(a.strip()) 
 
 
 #Replace String
-a = "Hello, World!"
+a = "Hi,Github!"
 print(a.replace("H", "J"))
 
 
 #Split String
-a = "Hello, World!"
+a = "I love it!"
 print(a.split(","))

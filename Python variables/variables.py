@@ -1,13 +1,13 @@
 #Examples
 x = 5
-y = "John"
+y = "Ken"
 print(x)
 print(y)
 
 
 
 x = 4       # x is of type int
-x = "Sally" # x is now of type str
+x = "Anna" # x is now of type str
 print(x)
 
 
@@ -18,17 +18,17 @@ z = float(3)  # z will be 3.0
 
 
 #Type
-x = 5
-y = "John"
+x = 0
+y = "Janel"
 print(type(x))
 print(type(y))
 
 
-x = "John"
+x = "Era"
 # is the same as
-x = 'John'
+x = 'Era'
 
 
-a = 4
-A = "Sally"
+a = 7
+A = "Turkey"
 #A will not overwrite a

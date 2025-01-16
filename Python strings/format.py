@@ -8,15 +8,15 @@ txt = f"My name is Akbota, I am {age}"
 print(txt)
 
 
-price = 59
+price = 78
 txt = f"The price is {price} dollars"
 print(txt)
 
 
-price = 59
+price = 45
 txt = f"The price is {price:.2f} dollars"
 print(txt)
 
 
-txt = f"The price is {20 * 59} dollars"
+txt = f"The price is {20 * 45} dollars"
 print(txt)

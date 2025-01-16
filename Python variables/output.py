@@ -1,21 +1,21 @@
 #Examples 
-x = "Python is awesome"
+x = "World is a beautiful place"
 print(x)
 
-x = "Python"
-y = "is"
-z = "awesome"
+x = "Hello"
+y = "Git"
+z = "Users"
 print(x, y, z)
 
-x = "Python "
-y = "is "
-z = "awesome"
+x = "Who"
+y = "are "
+z = "you"
 print(x + y + z)
 
-x = 5
-y = 10
+x = 56
+y = 44
 print(x + y)
 
-x = 5
-y = "John"
+x = 100
+y = "Score"
 print(x, y)

@@ -1,6 +1,6 @@
 #Examples 
 #This is a comment
-print("Hello, World!")
+print("Hello, students!")
 
 #print("Hello, World!")
 print("Cheers, Mate!")
@@ -10,14 +10,14 @@ print("Cheers, Mate!")
 #This is a comment
 #written in
 #more than just one line
-print("Hello, World!")
+print("Hello, it!")
 
 """
 This is a comment
 written in
 more than just one line
 """
-print("Hello, World!")
+print("Hello,guy!")
 
 
 

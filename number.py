@@ -1,5 +1,5 @@
 #Int
-x = 1
+x = 10
 y = 35656222554887711
 z = -3255522
 
@@ -9,9 +9,9 @@ print(type(z))
 
 
 #Float
-x = 1.10
-y = 1.0
-z = -35.59
+x = 1.19
+y = 1.4
+z = -35.78
 
 print(type(x))
 print(type(y))
@@ -19,7 +19,7 @@ print(type(z))
 
 
 #Complex
-x = 3+5j
+x = 3+6j
 y = 5j
 z = -5j
 
@@ -53,5 +53,5 @@ print(type(c))
 #Random num
 import random
 
-print(random.randrange(1, 10))
+print(random.randrange(1, 21))
 

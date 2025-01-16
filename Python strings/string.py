@@ -1,18 +1,18 @@
 #Exmples
-print("Hello")
-print('Hello')
+print("Mers")
+print('Fish')
 
-a="Hello,World!"
+a="Love ocean!"
 print(a)
 
 
 #Position
-a="Hello,World!"
+a="Player squid games!"
 print(a[1])
 
 
 #Loop 
-for x in "banana":
+for x in "Food":
   print(x)
 
 
@@ -21,9 +21,9 @@ a = "Hello, World!"
 print(len(a))
 
 
-txt = "The best things in life are free!"
-if "best" in txt:
-  print("Yes, 'best' is present.")
+txt = "Today, I created a new file and uploaded it to GitHub!"
+if "Today" in txt:
+  print("Yes, 'Today' is present.")
 
 
 txt = "The best things in life are free!"
